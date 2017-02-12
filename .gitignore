@@ -1,0 +1,10 @@
+x/*
+venv/*
+venv3/*
+.DS_Store
+.git
+*.pyc
+settings.py
+analytics.dat
+client_secret.json
+
